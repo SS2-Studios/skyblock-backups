@@ -78,3 +78,15 @@
 [21:08:41] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
 [21:08:45] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
 [21:12:27] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[21:45:46] [User Authenticator #1/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[21:45:46] [Server thread/INFO]: Disconnecting TodorW (/62.4.34.92:32998): You are not whitelisted on this server!
+[21:45:46] [Server thread/INFO]: TodorW (/62.4.34.92:32998) lost connection: You are not whitelisted on this server!
+[21:48:21] [User Authenticator #2/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[21:48:21] [Server thread/INFO]: Disconnecting TodorW (/62.4.34.92:32999): You are not whitelisted on this server!
+[21:48:21] [Server thread/INFO]: TodorW (/62.4.34.92:32999) lost connection: You are not whitelisted on this server!
+[21:50:24] [User Authenticator #3/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[21:50:24] [Server thread/INFO]: Disconnecting TodorW (/62.4.34.92:33002): You are not whitelisted on this server!
+[21:50:24] [Server thread/INFO]: TodorW (/62.4.34.92:33002) lost connection: You are not whitelisted on this server!
+[21:50:46] [Server thread/INFO]: Added TodorW to the whitelist
+[21:51:36] [User Authenticator #4/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[21:51:38] [Server thread/INFO]: TodorW[/62.4.34.92:33005] logged in with entity id 3437 at ([world]188.5, 75.0, -265.5)
