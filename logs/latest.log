@@ -72,3 +72,9 @@
 [20:56:16] [Server thread/INFO]: Jockooooo issued server command: /authme
 [20:56:27] [Server thread/INFO]: Jockooooo issued server command: /authme:captcha
 [20:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[21:08:30] [Server thread/INFO]: Jockooooo issued server command: /authme:logout
+[21:08:30] [Server thread/INFO]: [AuthMe] Jockooooo logged out
+[21:08:37] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
+[21:08:41] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
+[21:08:45] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[21:12:27] [Server thread/INFO]: Jockooooo lost connection: Disconnected
