@@ -90,3 +90,13 @@
 [21:50:46] [Server thread/INFO]: Added TodorW to the whitelist
 [21:51:36] [User Authenticator #4/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
 [21:51:38] [Server thread/INFO]: TodorW[/62.4.34.92:33005] logged in with entity id 3437 at ([world]188.5, 75.0, -265.5)
+[21:52:02] [Server thread/INFO]: [AuthMe] TodorW registered 62.4.34.92
+[21:52:02] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[21:52:08] [Server thread/INFO]: TodorW issued server command: /gamemode creative
+[21:56:59] [Server thread/INFO]: TodorW lost connection: Disconnected
+[22:03:33] [User Authenticator #5/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[22:03:34] [Server thread/INFO]: Jockooooo[/46.161.108.247:51422] logged in with entity id 4106 at ([world]174.1619217756468, 112.0, -387.0735427084195)
+[22:03:34] [Craft Scheduler Thread - 17 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[22:03:51] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[22:04:19] [Server thread/INFO]: Added kenmaman to the whitelist
+[22:04:28] [Server thread/INFO]: Player is already whitelisted
