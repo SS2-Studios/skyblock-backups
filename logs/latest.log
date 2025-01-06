@@ -100,3 +100,8 @@
 [22:03:51] [Server thread/INFO]: Jockooooo lost connection: Disconnected
 [22:04:19] [Server thread/INFO]: Added kenmaman to the whitelist
 [22:04:28] [Server thread/INFO]: Player is already whitelisted
+[22:48:02] [User Authenticator #6/INFO]: UUID of player kenmaman is 6403bc1d-1a9f-346f-b45c-c9c45bf15458
+[22:48:04] [Server thread/INFO]: kenmaman[/62.4.41.166:48405] logged in with entity id 4271 at ([world]201.5, 71.0, -246.5)
+[22:48:18] [Server thread/INFO]: kenmaman issued server command: /re
+[22:48:28] [Server thread/INFO]: kenmaman issued server command: /register
+[22:49:17] [Server thread/INFO]: kenmaman lost connection: Disconnected
