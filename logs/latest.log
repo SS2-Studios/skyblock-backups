@@ -11,3 +11,6 @@
 [11:20:02] [User Authenticator #9/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
 [11:20:02] [Server thread/INFO]: Disconnecting WarningBot (/37.63.20.122:1500): You are not whitelisted on this server!
 [11:20:02] [Server thread/INFO]: WarningBot (/37.63.20.122:1500) lost connection: You are not whitelisted on this server!
+[16:48:01] [User Authenticator #10/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[16:48:02] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:35056): You are not whitelisted on this server!
+[16:48:02] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:35056) lost connection: You are not whitelisted on this server!
