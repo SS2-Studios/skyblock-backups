@@ -43,3 +43,7 @@
 [20:36:56] [User Authenticator #12/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
 [20:36:56] [Server thread/INFO]: Disconnecting Jockooo (/146.70.196.52:40846): You are not whitelisted on this server!
 [20:36:56] [Server thread/INFO]: Jockooo (/146.70.196.52:40846) lost connection: You are not whitelisted on this server!
+[21:01:00] [User Authenticator #13/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
+[21:01:00] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60152): You are not whitelisted on this server!
+[21:01:00] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60152): You are not whitelisted on this server!
+[21:01:00] [Server thread/INFO]: WarningBot (/78.154.15.188:60152) lost connection: You are not whitelisted on this server!
