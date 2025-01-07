@@ -38,3 +38,39 @@
 [23:07:28] [Server thread/INFO]: Time elapsed: 445 ms
 [23:07:28] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
 [23:07:29] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[23:07:36] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[23:07:39] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[23:07:47] [Server thread/INFO]: [AuthMe] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[23:07:47] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
+[23:07:47] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[23:07:47] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[23:07:47] [Server thread/INFO]: [AuthMe] Checking for updates...
+[23:07:47] [Server thread/INFO]: [spark] Starting background profiler...
+[23:07:48] [Server thread/INFO]: Done preparing level "world" (74.945s)
+[23:07:48] [Server thread/INFO]: Running delayed init tasks
+[23:07:48] [Server thread/INFO]: Done (131.589s)! For help, type "help"
+[23:07:48] [Server thread/INFO]: Timings Reset
+[23:07:49] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] You are running the latest version.
+[23:08:23] [User Authenticator #0/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[23:08:26] [Server thread/INFO]: Jockooooo[/46.161.108.247:53662] logged in with entity id 23 at ([world]-31.5, 74.0, 47.5)
+[23:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[23:08:29] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[23:09:03] [Server thread/INFO]: Jockooooo issued server command: /s
+[23:09:06] [Server thread/INFO]: Jockooooo issued server command: /save-off
+[23:09:06] [Server thread/INFO]: [Jockooooo: Automatic saving is now disabled]
+[23:09:11] [Server thread/INFO]: Jockooooo issued server command: /save-on
+[23:09:11] [Server thread/INFO]: [Jockooooo: Automatic saving is now enabled]
+[23:09:32] [Server thread/INFO]: Jockooooo issued server command: /gamemode creative
+[23:09:32] [Server thread/INFO]: [Jockooooo: Set own game mode to Creative Mode]
+[23:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[23:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[23:11:39] [Server thread/INFO]: Jockooooo issued server command: /reload
+[23:11:39] [Server thread/INFO]: Jockooooo: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[23:11:51] [Server thread/INFO]: Jockooooo issued server command: /datapack list available
+[23:13:59] [Server thread/INFO]: Jockooooo lost connection: Disconnected
