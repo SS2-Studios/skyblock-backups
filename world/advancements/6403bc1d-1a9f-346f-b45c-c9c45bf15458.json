@@ -302,6 +302,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 22:15:24 +0100",
+      "minecraft:piglin": "2025-01-08 23:02:42 +0100",
       "minecraft:zombified_piglin": "2025-01-08 22:50:21 +0100",
       "minecraft:enderman": "2025-01-08 22:32:48 +0100",
       "minecraft:spider": "2025-01-08 21:55:40 +0100",
@@ -419,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-08 22:56:02 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-01-08 22:15:39 +0100"
@@ -434,6 +441,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-08 22:33:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-08 22:56:02 +0100"
     },
     "done": true
   },
@@ -512,6 +525,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-08 22:21:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-08 22:56:02 +0100"
     },
     "done": true
   },
@@ -711,7 +730,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-01-08 21:51:48 +0100",
-      "sweet_berries": "2025-01-08 21:57:21 +0100"
+      "sweet_berries": "2025-01-08 21:57:21 +0100",
+      "cod": "2025-01-08 22:59:47 +0100",
+      "cooked_salmon": "2025-01-08 22:57:48 +0100"
     },
     "done": false
   },
