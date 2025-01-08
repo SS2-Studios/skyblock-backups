@@ -529,6 +529,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2025-01-08 01:28:36 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:56:13 +0100"
     },
     "done": false

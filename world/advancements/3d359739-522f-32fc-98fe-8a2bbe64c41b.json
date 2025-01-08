@@ -18,6 +18,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-08 00:20:00 +0100"
@@ -51,6 +57,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-01-08 00:37:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
     },
     "done": true
   },
@@ -186,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-08 00:27:18 +0100"
@@ -225,6 +243,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_the_recipe": "2025-01-08 00:28:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
     },
     "done": true
   },
@@ -326,6 +350,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2025-01-08 01:28:45 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:44:19 +0100"
     },
     "done": false
@@ -390,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-08 00:19:25 +0100"
@@ -408,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-01-08 01:29:02 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-01-08 00:25:24 +0100"
@@ -417,6 +454,18 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-08 00:19:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-08 01:29:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-08 01:29:02 +0100"
     },
     "done": true
   },
