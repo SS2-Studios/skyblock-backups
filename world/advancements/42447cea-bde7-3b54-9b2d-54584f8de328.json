@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:desert": "2025-01-07 23:54:40 +0100",
       "minecraft:mangrove_swamp": "2025-01-08 02:43:53 +0100",
+      "minecraft:jungle": "2025-01-08 04:07:22 +0100",
       "minecraft:warm_ocean": "2025-01-08 02:35:15 +0100"
     },
     "done": false
@@ -439,7 +440,8 @@
       "minecraft:phantom": "2025-01-08 03:49:51 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:37:39 +0100",
       "minecraft:magma_cube": "2025-01-08 00:52:49 +0100",
-      "minecraft:zombie": "2025-01-08 03:13:50 +0100"
+      "minecraft:zombie": "2025-01-08 03:13:50 +0100",
+      "minecraft:creeper": "2025-01-08 04:14:43 +0100"
     },
     "done": false
   },
@@ -527,9 +529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 04:07:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-08 04:07:44 +0100"
     },
     "done": true
   },
@@ -554,6 +568,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-01-08 02:19:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-08 04:07:25 +0100"
     },
     "done": true
   },
@@ -632,6 +652,12 @@
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-01-08 02:44:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-08 04:07:25 +0100"
     },
     "done": true
   },
