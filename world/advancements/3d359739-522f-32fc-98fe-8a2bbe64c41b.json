@@ -477,7 +477,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:phantom": "2025-01-08 01:28:45 +0100",
-      "minecraft:zombified_piglin": "2025-01-08 00:44:19 +0100"
+      "minecraft:zombified_piglin": "2025-01-08 00:44:19 +0100",
+      "minecraft:creeper": "2025-01-08 02:32:41 +0100"
     },
     "done": false
   },
@@ -652,6 +653,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:01:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-08 02:32:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-08 02:32:42 +0100"
     },
     "done": true
   },
