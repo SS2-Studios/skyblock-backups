@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:desert": "2025-01-07 23:54:40 +0100",
       "minecraft:mushroom_fields": "2025-01-08 17:41:40 +0100",
+      "minecraft:taiga": "2025-01-08 18:04:33 +0100",
       "minecraft:mangrove_swamp": "2025-01-08 02:43:53 +0100",
       "minecraft:jungle": "2025-01-08 04:07:22 +0100",
       "minecraft:river": "2025-01-08 17:36:07 +0100",
@@ -715,9 +716,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-08 17:51:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-08 17:51:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-01-08 17:41:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-08 18:04:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-08 17:51:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-08 17:51:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-08 18:04:48 +0100"
     },
     "done": true
   },
