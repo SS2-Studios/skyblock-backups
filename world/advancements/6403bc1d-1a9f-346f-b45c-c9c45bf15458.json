@@ -302,6 +302,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 22:15:24 +0100",
+      "minecraft:zombified_piglin": "2025-01-08 22:50:21 +0100",
       "minecraft:enderman": "2025-01-08 22:32:48 +0100",
       "minecraft:spider": "2025-01-08 21:55:40 +0100",
       "minecraft:zombie": "2025-01-08 21:52:36 +0100",
@@ -454,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-08 22:50:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-08 22:01:41 +0100"
@@ -505,6 +512,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-08 22:21:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-08 22:51:24 +0100"
     },
     "done": true
   },
@@ -596,6 +609,12 @@
   "minecraft:story/sapling": {
     "criteria": {
       "sapling": "2025-01-08 22:13:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-08 22:51:24 +0100"
     },
     "done": true
   },
