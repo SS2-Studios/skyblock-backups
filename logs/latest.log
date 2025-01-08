@@ -1140,3 +1140,6 @@
 [04:29:28] [Craft Scheduler Thread - 36 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
 [04:29:34] [Server thread/INFO]: Jockooooo fell out of the world
 [04:30:13] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[09:32:41] [User Authenticator #10/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[09:32:41] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:51864): You are not whitelisted on this server!
+[09:32:41] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:51864) lost connection: You are not whitelisted on this server!
