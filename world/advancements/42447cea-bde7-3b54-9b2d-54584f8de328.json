@@ -1317,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-09 00:27:08 +0100"
+    },
+    "done": true
+  },
   "skyblock:farmer/suit_up": {
     "criteria": {
       "leather_boots": "2025-01-08 23:46:49 +0100"
