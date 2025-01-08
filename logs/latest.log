@@ -1462,3 +1462,39 @@
 [20:57:28] [Server thread/INFO]: TodorW[/62.4.34.92:44917] logged in with entity id 10168 at ([world]6.729284602474775, 63.0, 8.243613645768777)
 [20:57:28] [Craft Scheduler Thread - 54 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
 [21:05:37] [Server thread/INFO]: TodorW lost connection: Disconnected
+[21:30:58] [User Authenticator #17/INFO]: UUID of player kenmaman is 6403bc1d-1a9f-346f-b45c-c9c45bf15458
+[21:30:59] [Server thread/INFO]: kenmaman[/62.4.41.166:51372] logged in with entity id 10321 at ([world]4.5, 63.0, 11.5)
+[21:32:15] [User Authenticator #18/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[21:32:17] [Server thread/INFO]: TodorW[/62.4.34.92:45396] logged in with entity id 10339 at ([world]11.392755323830468, 63.0, 8.92182683604375)
+[21:32:17] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[21:32:59] [Server thread/INFO]: kenmaman lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:34:00] [User Authenticator #19/INFO]: UUID of player kenmaman is 6403bc1d-1a9f-346f-b45c-c9c45bf15458
+[21:34:01] [Server thread/INFO]: kenmaman[/62.4.41.166:51373] logged in with entity id 10364 at ([world]4.5, 63.0, 11.5)
+[21:34:51] [Server thread/INFO]: [AuthMe] kenmaman registered 62.4.41.166
+[21:34:51] [Craft Scheduler Thread - 63 - AuthMe/INFO]: [AuthMe] kenmaman logged in 62.4.41.166
+[21:35:15] [Async Chat Thread - #145/INFO]: [Not Secure] <kenmaman> helppp
+[21:35:40] [Async Chat Thread - #145/INFO]: [Not Secure] <kenmaman> :(
+[21:35:45] [Async Chat Thread - #146/INFO]: [Not Secure] <TodorW> jebem li mu
+[21:35:46] [Async Chat Thread - #145/INFO]: [Not Secure] <TodorW> farmu
+[21:35:49] [Async Chat Thread - #146/INFO]: [Not Secure] <kenmaman> oli sad na disc
+[21:35:50] [Server thread/INFO]: kenmaman fell out of the world
+[21:36:00] [Async Chat Thread - #146/INFO]: [Not Secure] <TodorW> aj samo da ga upalim
+[21:36:08] [Async Chat Thread - #146/INFO]: [Not Secure] <kenmaman> hahahahah gle spidera
+[21:36:22] [Server thread/INFO]: kenmaman has made the advancement [Getting an Upgrade]
+[21:36:45] [Server thread/INFO]: kenmaman has made the advancement [Cobblestone Generator]
+[21:37:08] [Server thread/INFO]: kenmaman has reached the goal [Fake Cave]
+[21:37:08] [Server thread/INFO]: kenmaman has made the advancement [Monster Hunter]
+[21:37:15] [Server thread/INFO]: kenmaman was shot by Skeleton
+[21:38:14] [User Authenticator #20/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[21:38:15] [Server thread/INFO]: Jockooooo[/46.161.108.247:37796] logged in with entity id 10435 at ([world]19.370427873016137, 63.0, 3.8241882627785584)
+[21:38:15] [Craft Scheduler Thread - 65 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[21:38:31] [Server thread/INFO]: TodorW was blown up by Creeper
+[21:38:34] [Async Chat Thread - #148/INFO]: [Not Secure] <Jockooooo> шта бре
+[21:38:36] [Async Chat Thread - #147/INFO]: [Not Secure] <Jockooooo> који курац
+[21:38:54] [Async Chat Thread - #147/INFO]: [Not Secure] <TodorW> NE RADI FARMA
+[21:38:55] [Async Chat Thread - #147/INFO]: [Not Secure] <Jockooooo> имамо очи
+[21:38:59] [Async Chat Thread - #147/INFO]: [Not Secure] <Jockooooo> PA JER NIJE GOTOVA
+[21:39:04] [Async Chat Thread - #147/INFO]: [Not Secure] <Jockooooo> REKAO SAM DA IDEM 5M
+[21:39:08] [Async Chat Thread - #148/INFO]: [Not Secure] <TodorW> AJDE VOJS
+[21:39:09] [Async Chat Thread - #148/INFO]: [Not Secure] <Jockooooo> A I VIDIS DA JE 50% gotovo
+[21:39:11] [Async Chat Thread - #148/INFO]: [Not Secure] <TodorW> na disc
