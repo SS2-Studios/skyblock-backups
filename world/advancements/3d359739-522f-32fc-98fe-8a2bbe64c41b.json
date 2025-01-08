@@ -529,7 +529,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-01-08 01:29:02 +0100"
+      "rotten_flesh": "2025-01-08 01:29:02 +0100",
+      "cooked_salmon": "2025-01-08 03:21:48 +0100"
     },
     "done": false
   },
@@ -700,6 +701,12 @@
       "has_boat": "2025-01-08 03:17:15 +0100"
     },
     "done": true
+  },
+  "skyblock:farmer/suit_up": {
+    "criteria": {
+      "leather_boots": "2025-01-08 03:26:24 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
