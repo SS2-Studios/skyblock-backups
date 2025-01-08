@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-08 23:21:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-08 22:09:37 +0100"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 22:28:14 +0100"
@@ -380,6 +392,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 23:00:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-08 22:30:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
     },
     "done": true
   },
@@ -657,9 +681,17 @@
     "criteria": {
       "minecraft:piglin": "2025-01-08 22:24:51 +0100",
       "minecraft:zombified_piglin": "2025-01-08 22:24:14 +0100",
-      "minecraft:enderman": "2025-01-08 22:32:47 +0100"
+      "minecraft:enderman": "2025-01-08 22:32:47 +0100",
+      "minecraft:spider": "2025-01-08 23:11:00 +0100",
+      "minecraft:husk": "2025-01-08 23:11:04 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
+    },
+    "done": true
   },
   "minecraft:story/fake_cave": {
     "criteria": {
@@ -733,6 +765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-08 23:21:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-08 22:30:01 +0100"
@@ -771,10 +809,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-08 23:17:06 +0100",
+      "minecraft:beach": "2025-01-08 23:17:49 +0100",
       "minecraft:desert": "2025-01-08 22:07:14 +0100",
       "minecraft:mushroom_fields": "2025-01-08 22:10:41 +0100",
+      "minecraft:forest": "2025-01-08 23:17:47 +0100",
       "minecraft:mangrove_swamp": "2025-01-08 22:18:23 +0100",
+      "minecraft:jungle": "2025-01-08 23:16:37 +0100",
       "minecraft:river": "2025-01-08 22:10:30 +0100",
+      "minecraft:lukewarm_ocean": "2025-01-08 23:17:51 +0100",
       "minecraft:warm_ocean": "2025-01-08 22:10:45 +0100"
     },
     "done": false
@@ -839,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-08 23:21:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-01-08 22:26:37 +0100",
@@ -858,9 +907,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-08 23:21:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-08 22:30:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
     },
     "done": true
   },
@@ -936,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-08 22:30:42 +0100"
@@ -999,6 +1072,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 22:28:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:21:35 +0100"
     },
     "done": true
   },

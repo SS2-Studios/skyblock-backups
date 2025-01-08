@@ -451,6 +451,7 @@
       "minecraft:phantom": "2025-01-08 03:49:51 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:37:39 +0100",
       "minecraft:magma_cube": "2025-01-08 00:52:49 +0100",
+      "minecraft:witch": "2025-01-08 23:11:25 +0100",
       "minecraft:spider": "2025-01-08 21:35:04 +0100",
       "minecraft:zombie": "2025-01-08 03:13:50 +0100",
       "minecraft:creeper": "2025-01-08 04:14:43 +0100",
@@ -1315,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-08 23:08:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-08 22:41:20 +0100"
@@ -1381,9 +1388,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-08 23:08:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
     },
     "done": true
   },
@@ -1429,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-01-08 22:37:48 +0100"
@@ -1471,6 +1508,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:05 +0100"
@@ -1486,6 +1541,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-08 23:11:30 +0100"
     },
     "done": true
   },
