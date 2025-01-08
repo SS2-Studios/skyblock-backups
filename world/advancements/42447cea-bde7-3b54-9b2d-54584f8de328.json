@@ -8,8 +8,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-01-07 23:54:40 +0100",
+      "minecraft:mushroom_fields": "2025-01-08 17:41:40 +0100",
       "minecraft:mangrove_swamp": "2025-01-08 02:43:53 +0100",
       "minecraft:jungle": "2025-01-08 04:07:22 +0100",
+      "minecraft:river": "2025-01-08 17:36:07 +0100",
       "minecraft:warm_ocean": "2025-01-08 02:35:15 +0100"
     },
     "done": false
@@ -523,15 +525,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_salmon": "2025-01-08 02:49:01 +0100"
+      "has_golden_sword": "2025-01-08 02:19:56 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_log": "2025-01-08 04:07:44 +0100"
+      "has_golden_sword": "2025-01-08 02:19:56 +0100"
     },
     "done": true
   },
@@ -541,39 +543,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-08 04:07:44 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-01-08 03:22:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-01-08 03:22:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-01-08 02:19:56 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-01-08 04:07:25 +0100"
     },
     "done": true
   },
@@ -595,33 +567,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-01-08 02:49:01 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-01-08 02:19:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-01-08 02:49:01 +0100"
     },
     "done": true
   },
@@ -637,27 +591,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-08 03:22:09 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-01-08 02:44:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-01-08 04:07:25 +0100"
     },
     "done": true
   },
@@ -667,9 +603,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "has_bowl": "2025-01-08 03:23:00 +0100"
+      "has_gold_ingot": "2025-01-08 02:21:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-08 02:21:10 +0100"
     },
     "done": true
   },
@@ -683,9 +625,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_cod": "2025-01-08 03:22:09 +0100"
+      "consumed_item": "2025-01-08 02:40:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-08 02:44:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
     },
     "done": true
   },
@@ -695,21 +661,63 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "consumed_item": "2025-01-08 02:40:57 +0100"
+      "cod": "2025-01-08 03:22:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_gold_ingot": "2025-01-08 02:21:10 +0100"
+      "has_cod": "2025-01-08 03:22:09 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_gold_ingot": "2025-01-08 02:21:10 +0100"
+      "has_cod": "2025-01-08 03:22:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-08 03:22:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-08 03:23:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-08 04:07:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-08 04:07:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 04:07:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-08 04:07:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-08 17:41:48 +0100"
     },
     "done": true
   },
