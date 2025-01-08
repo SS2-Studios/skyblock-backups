@@ -912,12 +912,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-08 18:57:49 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-01-08 18:43:55 +0100"
@@ -930,21 +924,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_bow": "2025-01-08 19:57:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-08 18:57:49 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-01-08 19:57:16 +0100"
+      "has_bone_meal": "2025-01-08 18:43:56 +0100"
     },
     "done": true
   },
@@ -954,9 +936,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_bone_meal": "2025-01-08 18:43:56 +0100"
+      "has_logs": "2025-01-08 18:57:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 18:57:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-08 19:57:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-08 19:57:16 +0100"
     },
     "done": true
   },
