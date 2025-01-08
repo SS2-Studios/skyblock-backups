@@ -856,7 +856,8 @@
   },
   "skyblock:farmer/suit_up": {
     "criteria": {
-      "leather_boots": "2025-01-08 03:26:24 +0100"
+      "leather_boots": "2025-01-08 03:26:24 +0100",
+      "leather_leggings": "2025-01-09 00:15:33 +0100"
     },
     "done": false
   },

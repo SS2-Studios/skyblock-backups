@@ -450,6 +450,7 @@
       "minecraft:piglin": "2025-01-08 00:41:13 +0100",
       "minecraft:phantom": "2025-01-08 03:49:51 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:37:39 +0100",
+      "minecraft:enderman": "2025-01-09 00:12:32 +0100",
       "minecraft:magma_cube": "2025-01-08 00:52:49 +0100",
       "minecraft:witch": "2025-01-08 23:11:25 +0100",
       "minecraft:spider": "2025-01-08 21:35:04 +0100",
@@ -1328,9 +1329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-09 00:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-08 22:41:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-09 00:05:43 +0100"
     },
     "done": true
   },
@@ -1352,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:story/torch_time": {
+    "criteria": {
+      "requirement": "2025-01-09 00:21:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-08 22:29:17 +0100"
@@ -1361,6 +1380,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-01-08 22:37:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-09 00:14:46 +0100"
     },
     "done": true
   },
@@ -1379,6 +1404,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-09 00:14:46 +0100"
     },
     "done": true
   },
