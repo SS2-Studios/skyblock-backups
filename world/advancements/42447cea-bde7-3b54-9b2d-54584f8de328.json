@@ -338,7 +338,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-01-08 00:41:13 +0100",
-      "minecraft:zombified_piglin": "2025-01-08 00:37:39 +0100"
+      "minecraft:zombified_piglin": "2025-01-08 00:37:39 +0100",
+      "minecraft:magma_cube": "2025-01-08 00:52:49 +0100"
     },
     "done": false
   },
