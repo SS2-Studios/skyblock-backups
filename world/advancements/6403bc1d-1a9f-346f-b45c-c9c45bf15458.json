@@ -13,7 +13,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-01-08 22:03:21 +0100",
       "minecraft:desert": "2025-01-08 21:31:00 +0100",
+      "minecraft:taiga": "2025-01-08 22:02:55 +0100",
+      "minecraft:deep_frozen_ocean": "2025-01-08 22:03:34 +0100",
+      "minecraft:river": "2025-01-08 22:02:50 +0100",
+      "minecraft:wooded_badlands": "2025-01-08 22:03:48 +0100",
       "minecraft:warm_ocean": "2025-01-08 21:35:11 +0100"
     },
     "done": false
@@ -296,8 +301,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-08 21:55:40 +0100",
       "minecraft:zombie": "2025-01-08 21:52:36 +0100",
-      "minecraft:creeper": "2025-01-08 21:37:08 +0100"
+      "minecraft:creeper": "2025-01-08 21:37:08 +0100",
+      "minecraft:husk": "2025-01-08 21:55:13 +0100"
     },
     "done": false
   },
@@ -343,6 +350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-08 21:52:01 +0100"
@@ -361,9 +374,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-08 21:52:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
     },
     "done": true
   },
@@ -375,9 +412,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-01-08 21:51:48 +0100"
+      "rotten_flesh": "2025-01-08 21:51:48 +0100",
+      "sweet_berries": "2025-01-08 21:57:21 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
   },
   "minecraft:story/zombie_hunter": {
     "criteria": {
@@ -388,6 +432,24 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-08 21:51:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 22:01:41 +0100"
     },
     "done": true
   },
