@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-01-07 23:34:41 +0100",
+      "minecraft:mushroom_fields": "2025-01-08 18:43:22 +0100",
       "minecraft:mangrove_swamp": "2025-01-08 02:43:44 +0100",
       "minecraft:jungle": "2025-01-08 04:06:51 +0100",
       "minecraft:river": "2025-01-08 04:28:45 +0100",
@@ -902,6 +903,30 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-08 04:14:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-08 18:43:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-08 18:43:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-08 18:48:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-08 18:43:56 +0100"
     },
     "done": true
   },
