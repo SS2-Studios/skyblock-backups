@@ -1458,3 +1458,7 @@
 [20:03:41] [Async Chat Thread - #141/INFO]: [Not Secure] <TodorW> aj
 [20:08:50] [Server thread/INFO]: Jockooooo lost connection: Disconnected
 [20:10:21] [Server thread/INFO]: TodorW lost connection: Disconnected
+[20:57:27] [User Authenticator #16/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[20:57:28] [Server thread/INFO]: TodorW[/62.4.34.92:44917] logged in with entity id 10168 at ([world]6.729284602474775, 63.0, 8.243613645768777)
+[20:57:28] [Craft Scheduler Thread - 54 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[21:05:37] [Server thread/INFO]: TodorW lost connection: Disconnected
