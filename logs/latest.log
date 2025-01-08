@@ -1147,3 +1147,15 @@
 [17:35:19] [Server thread/INFO]: TodorW[/62.4.34.92:43431] logged in with entity id 8037 at ([world]4.498286312335852, 63.0, 12.228596606844462)
 [17:35:20] [Craft Scheduler Thread - 39 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
 [18:13:22] [Server thread/INFO]: TodorW lost connection: Disconnected
+[18:27:59] [User Authenticator #12/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[18:28:00] [Server thread/INFO]: TodorW[/62.4.34.92:43443] logged in with entity id 8696 at ([world]6.301566849663912, 64.0, 197.1074733256125)
+[18:28:00] [Craft Scheduler Thread - 42 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[18:29:11] [Server thread/INFO]: TodorW fell out of the world
+[18:36:38] [Server thread/INFO]: TodorW lost connection: Disconnected
+[18:36:48] [User Authenticator #13/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[18:36:49] [Server thread/INFO]: TodorW[/62.4.34.92:43451] logged in with entity id 8781 at ([world]13.59235484537467, -99.05350675218466, -0.6079565065282805)
+[18:36:49] [Craft Scheduler Thread - 45 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[18:36:52] [Server thread/INFO]: TodorW fell out of the world
+[18:38:38] [User Authenticator #14/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[18:38:39] [Server thread/INFO]: Jockooooo[/46.161.108.247:33526] logged in with entity id 8784 at ([world]14.517285127346575, 63.5, 11.001587765161657)
+[18:38:39] [Craft Scheduler Thread - 47 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
