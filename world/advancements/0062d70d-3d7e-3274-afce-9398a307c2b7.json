@@ -468,7 +468,8 @@
     "criteria": {
       "minecraft:piglin": "2025-01-08 01:43:37 +0100",
       "minecraft:phantom": "2025-01-08 01:28:36 +0100",
-      "minecraft:zombified_piglin": "2025-01-08 00:56:13 +0100"
+      "minecraft:zombified_piglin": "2025-01-08 00:56:13 +0100",
+      "minecraft:zombie": "2025-01-08 22:32:53 +0100"
     },
     "done": false
   },
@@ -832,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-08 22:34:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-08 22:04:44 +0100"
@@ -1177,6 +1184,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-08 21:59:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/zombie_hunter": {
+    "criteria": {
+      "requirement": "2025-01-08 22:32:52 +0100"
     },
     "done": true
   },
