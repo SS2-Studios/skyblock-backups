@@ -1316,6 +1316,12 @@
     },
     "done": true
   },
+  "skyblock:farmer/suit_up": {
+    "criteria": {
+      "leather_boots": "2025-01-08 23:46:49 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-08 23:08:35 +0100"
