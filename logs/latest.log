@@ -1134,3 +1134,9 @@
 [04:18:58] [Async Chat Thread - #105/INFO]: [Not Secure] <Jockooooo> viidmo se pookie
 [04:18:59] [Async Chat Thread - #104/INFO]: [Not Secure] <TodorW> love ya pookie
 [04:19:06] [Server thread/INFO]: TodorW lost connection: Disconnected
+[04:29:13] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[04:29:27] [User Authenticator #9/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[04:29:28] [Server thread/INFO]: Jockooooo[/46.161.108.247:58398] logged in with entity id 8020 at ([world]146.34734325358983, 30.197384786484058, 8.874176761083854)
+[04:29:28] [Craft Scheduler Thread - 36 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[04:29:34] [Server thread/INFO]: Jockooooo fell out of the world
+[04:30:13] [Server thread/INFO]: Jockooooo lost connection: Disconnected
