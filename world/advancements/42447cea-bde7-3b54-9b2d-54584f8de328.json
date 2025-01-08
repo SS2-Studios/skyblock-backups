@@ -519,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
@@ -555,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
@@ -570,6 +582,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 02:21:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-08 02:49:01 +0100"
     },
     "done": true
   },
@@ -605,7 +623,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-01-08 02:40:57 +0100"
+      "apple": "2025-01-08 02:40:57 +0100",
+      "rotten_flesh": "2025-01-08 02:59:04 +0100",
+      "cooked_salmon": "2025-01-08 02:49:22 +0100"
     },
     "done": false
   },
