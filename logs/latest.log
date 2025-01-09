@@ -176,3 +176,34 @@
 [03:01:26] [Server thread/INFO]: Gave 1 [Cookie] to TodorW
 [03:01:33] [Server thread/INFO]: You whisper to TodorW: evo ti jedan cookie pookie
 [03:05:44] [Server thread/INFO]: NikcySrbin lost connection: Disconnected
+[03:27:38] [Server thread/INFO]: lucicc has made the advancement [Take Aim]
+[03:34:04] [Server thread/INFO]: lucicc lost connection: Disconnected
+[03:34:06] [User Authenticator #40/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[03:34:08] [Server thread/INFO]: lucicc[/109.228.72.155:55262] logged in with entity id 38007 at ([world_nether]28.489709031415465, -12.362216182003293, 4.322126956974009)
+[03:34:08] [Craft Scheduler Thread - 134 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[03:34:10] [Server thread/INFO]: lucicc fell out of the world
+[03:36:31] [Server thread/INFO]: lucicc lost connection: Disconnected
+[03:36:32] [User Authenticator #41/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[03:36:33] [Server thread/INFO]: lucicc[/109.228.72.155:55315] logged in with entity id 38153 at ([world_nether]36.95202788193395, 66.0, 5.539233352493367)
+[03:36:34] [Craft Scheduler Thread - 137 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[03:36:36] [Server thread/INFO]: lucicc lost connection: Disconnected
+[03:36:40] [User Authenticator #41/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[03:36:41] [Server thread/INFO]: lucicc[/109.228.72.155:55332] logged in with entity id 38155 at ([world_nether]36.95202788193395, 66.0, 5.539233352493367)
+[03:36:41] [Craft Scheduler Thread - 138 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[03:38:27] [Server thread/INFO]: TodorW was slain by Piglin
+[03:38:30] [Server thread/INFO]: lucicc was slain by Piglin
+[03:38:37] [Server thread/INFO]: lucicc was slain by Piglin
+[03:38:44] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:39:03] [Server thread/INFO]: TodorW was slain by Zombified Piglin
+[03:39:06] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:39:20] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:39:28] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:39:36] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:40:01] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[03:40:05] [Server thread/INFO]: lucicc lost connection: Disconnected
+[03:40:07] [User Authenticator #42/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[03:40:07] [Server thread/INFO]: lucicc[/109.228.72.155:55414] logged in with entity id 38329 at ([world]5.199885128288873, 63.5, 7.763070127530946)
+[03:40:08] [Craft Scheduler Thread - 141 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[03:40:25] [Server thread/INFO]: TodorW was slain by Zombified Piglin
+[03:40:29] [Server thread/INFO]: lucicc fell out of the world
+[03:41:56] [Server thread/INFO]: TodorW lost connection: Disconnected
