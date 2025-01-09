@@ -469,6 +469,7 @@
       "minecraft:piglin": "2025-01-08 01:43:37 +0100",
       "minecraft:phantom": "2025-01-08 01:28:36 +0100",
       "minecraft:zombified_piglin": "2025-01-08 00:56:13 +0100",
+      "minecraft:enderman": "2025-01-09 02:37:23 +0100",
       "minecraft:zombie": "2025-01-08 22:32:53 +0100"
     },
     "done": false
@@ -1358,6 +1359,18 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2025-01-09 02:01:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-09 02:33:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-09 02:33:58 +0100"
     },
     "done": true
   },
