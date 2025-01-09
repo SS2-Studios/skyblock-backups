@@ -235,3 +235,12 @@
 [17:11:59] [Server thread/INFO]: lucicc didn't want to live in the same world as Piglin
 [17:26:38] [Server thread/INFO]: lucicc was slain by Zombified Piglin
 [17:37:52] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[17:39:42] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[17:40:32] [User Authenticator #48/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[17:40:34] [Server thread/INFO]: Boja21[/77.222.27.86:12068] logged in with entity id 42785 at ([world]3.1818378579079645, 63.0, 13.172414373835062)
+[17:40:42] [Craft Scheduler Thread - 156 - AuthMe/INFO]: [AuthMe] Boja21 logged in 77.222.27.86
+[17:42:23] [Server thread/INFO]: lucicc lost connection: Disconnected
+[17:42:25] [User Authenticator #49/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[17:42:25] [Server thread/INFO]: lucicc[/109.228.72.155:53490] logged in with entity id 42992 at ([world_nether]9.406364031785536, 62.5, 7.727567567480128)
+[17:42:26] [Craft Scheduler Thread - 159 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[17:46:43] [Server thread/INFO]: Boja21 has made the advancement [Oh Shiny]
