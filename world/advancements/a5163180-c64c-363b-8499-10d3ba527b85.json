@@ -1417,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:story/torch_time": {
+    "criteria": {
+      "requirement": "2025-01-09 02:00:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-01-09 01:40:17 +0100"
