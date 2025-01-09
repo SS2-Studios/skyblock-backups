@@ -115,3 +115,21 @@
 [02:10:25] [User Authenticator #36/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
 [02:10:26] [Server thread/INFO]: Jockooooo[/46.161.108.247:35364] logged in with entity id 31007 at ([world]9.761448979343161, 63.0, 22.469581189030023)
 [02:10:26] [Craft Scheduler Thread - 120 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[02:11:21] [Server thread/INFO]: Jockooooo issued server command: /seed
+[02:14:02] [Server thread/INFO]: Jockooooo didn't want to live in the same world as Enderman
+[02:14:12] [Server thread/INFO]: Jockooooo was slain by Enderman
+[02:15:20] [Server thread/INFO]: lucicc lost connection: Disconnected
+[02:15:22] [User Authenticator #37/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[02:15:23] [Server thread/INFO]: lucicc[/109.228.72.155:53799] logged in with entity id 31737 at ([world_nether]8.415268355439057, 63.5, 9.40888747581745)
+[02:15:23] [Craft Scheduler Thread - 123 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[02:17:07] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[02:23:45] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[02:23:59] [Server thread/INFO]: NikcySrbin was shot by Piglin
+[02:24:18] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[02:24:28] [Server thread/INFO]: Jockooooo was slain by Zombified Piglin
+[02:24:35] [Server thread/INFO]: NikcySrbin fell out of the world
+[02:25:07] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[02:25:14] [Server thread/INFO]: lucicc lost connection: Disconnected
+[02:25:15] [User Authenticator #38/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[02:25:16] [Server thread/INFO]: lucicc[/109.228.72.155:54071] logged in with entity id 33058 at ([world]7.223373505511417, 64.0, 5.378333353662691)
+[02:25:16] [Craft Scheduler Thread - 126 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
