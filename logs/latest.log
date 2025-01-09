@@ -212,3 +212,6 @@
 [06:38:57] [Server thread/INFO]: lucicc[/109.228.72.155:58253] logged in with entity id 39105 at ([world]11.810843643703791, 63.0, 4.884259981100765)
 [06:38:57] [Craft Scheduler Thread - 145 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
 [06:39:26] [Server thread/INFO]: lucicc lost connection: Disconnected
+[07:33:33] [User Authenticator #44/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
+[07:33:33] [Server thread/INFO]: Disconnecting Jockooo (/82.102.19.76:45892): You are not whitelisted on this server!
+[07:33:33] [Server thread/INFO]: Jockooo (/82.102.19.76:45892) lost connection: You are not whitelisted on this server!
