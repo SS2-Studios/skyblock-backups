@@ -295,3 +295,7 @@
 [20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
 [20:46:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:33:58] [User Authenticator #53/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[22:33:59] [Server thread/INFO]: TodorW[/62.4.34.92:52362] logged in with entity id 50606 at ([world]9.27512596330064, 63.0, 21.86929582987789)
+[22:33:59] [Craft Scheduler Thread - 172 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[22:34:41] [Server thread/INFO]: TodorW was slain by Enderman
