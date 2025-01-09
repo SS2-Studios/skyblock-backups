@@ -215,3 +215,10 @@
 [07:33:33] [User Authenticator #44/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
 [07:33:33] [Server thread/INFO]: Disconnecting Jockooo (/82.102.19.76:45892): You are not whitelisted on this server!
 [07:33:33] [Server thread/INFO]: Jockooo (/82.102.19.76:45892) lost connection: You are not whitelisted on this server!
+[16:46:32] [User Authenticator #45/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[16:46:33] [Server thread/INFO]: TodorW[/62.4.34.92:50355] logged in with entity id 39124 at ([world]9.294184290995723, 63.0, 23.70778288988467)
+[16:46:33] [Craft Scheduler Thread - 148 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[16:47:30] [Server thread/INFO]: TodorW lost connection: Disconnected
+[16:51:16] [User Authenticator #46/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[16:51:16] [Server thread/INFO]: TodorW[/62.4.34.92:50357] logged in with entity id 39195 at ([world]26.30000001192093, 60.5, -2.771744567199496)
+[16:51:16] [Craft Scheduler Thread - 151 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
