@@ -231,7 +231,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-08 22:13:37 +0100"
+      "minecraft:crimson_forest": "2025-01-09 02:51:26 +0100",
+      "minecraft:nether_wastes": "2025-01-08 22:13:37 +0100",
+      "minecraft:soul_sand_valley": "2025-01-09 02:52:19 +0100"
     },
     "done": false
   },
@@ -1630,6 +1632,12 @@
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-09 01:40:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-09 02:52:39 +0100"
     },
     "done": true
   },
