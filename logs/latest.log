@@ -222,3 +222,13 @@
 [16:51:16] [User Authenticator #46/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
 [16:51:16] [Server thread/INFO]: TodorW[/62.4.34.92:50357] logged in with entity id 39195 at ([world]26.30000001192093, 60.5, -2.771744567199496)
 [16:51:16] [Craft Scheduler Thread - 151 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[16:56:34] [User Authenticator #47/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[16:56:35] [Server thread/INFO]: lucicc[/109.228.72.155:52509] logged in with entity id 39415 at ([world_nether]-114.59493652944853, 62.5, 9.517846904386534)
+[16:56:36] [Craft Scheduler Thread - 153 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[16:58:09] [Async Chat Thread - #221/INFO]: [Not Secure] <TodorW> hello nigga
+[16:58:20] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[16:58:21] [Async Chat Thread - #222/INFO]: [Not Secure] <TodorW> da nije mozda neka kokoska ulecela slucajno odje
+[16:58:45] [Server thread/INFO]: lucicc fell out of the world
+[16:59:04] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[16:59:39] [Async Chat Thread - #223/INFO]: [Not Secure] <TodorW> eo ti stvari
+[17:01:54] [Server thread/INFO]: TodorW lost connection: Disconnected
