@@ -271,3 +271,27 @@
 [19:43:27] [Server thread/INFO]: Boja21 lost connection: Disconnected
 [20:00:13] [Server thread/INFO]: lucicc was slain by Zombified Piglin
 [20:10:09] [Server thread/INFO]: lucicc lost connection: Disconnected
+[20:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17796ms or 355 ticks behind
+[20:46:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[20:46:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[20:46:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[20:46:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:46:34] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:46:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:146)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1483)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007f027cca26d0.run(Unknown Source)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:46:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[20:46:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[20:46:34] [Paper Watchdog Thread/ERROR]: ------------------------------
