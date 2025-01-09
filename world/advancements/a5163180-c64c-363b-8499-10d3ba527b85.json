@@ -350,6 +350,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-01-08 22:26:37 +0100",
+      "cooked_cod": "2025-01-09 01:13:18 +0100",
       "sweet_berries": "2025-01-08 22:17:37 +0100"
     },
     "done": false
