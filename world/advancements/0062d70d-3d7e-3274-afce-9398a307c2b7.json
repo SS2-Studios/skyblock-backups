@@ -478,7 +478,8 @@
       "minecraft:enderman": "2025-01-09 02:37:23 +0100",
       "minecraft:zombie": "2025-01-08 22:32:53 +0100",
       "minecraft:creeper": "2025-01-09 03:11:27 +0100",
-      "minecraft:husk": "2025-01-09 03:11:31 +0100"
+      "minecraft:husk": "2025-01-09 03:11:31 +0100",
+      "minecraft:slime": "2025-01-09 19:08:07 +0100"
     },
     "done": false
   },
@@ -1697,6 +1698,24 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-09 18:21:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 19:08:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 19:08:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-09 19:08:07 +0100"
     },
     "done": true
   },
