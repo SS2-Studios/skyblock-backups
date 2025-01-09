@@ -300,3 +300,7 @@
 [22:33:59] [Craft Scheduler Thread - 172 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
 [22:34:41] [Server thread/INFO]: TodorW was slain by Enderman
 [22:43:14] [Server thread/INFO]: TodorW lost connection: Disconnected
+[23:10:58] [User Authenticator #54/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[23:10:59] [Server thread/INFO]: lucicc[/109.228.72.155:59443] logged in with entity id 50939 at ([world]7.410106546923264, 64.0, 7.110047557213635)
+[23:10:59] [Craft Scheduler Thread - 175 - AuthMe/INFO]: [AuthMe] lucicc logged in 109.228.72.155
+[23:13:19] [Server thread/INFO]: lucicc lost connection: Disconnected
