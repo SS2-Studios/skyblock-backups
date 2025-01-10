@@ -17,3 +17,6 @@
 [15:16:44] [User Authenticator #58/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
 [15:16:44] [Server thread/INFO]: Disconnecting Jockooo (/185.204.1.181:60948): You are not whitelisted on this server!
 [15:16:44] [Server thread/INFO]: Jockooo (/185.204.1.181:60948) lost connection: You are not whitelisted on this server!
+[16:06:53] [User Authenticator #59/INFO]: UUID of player NikcySrbin is a5163180-c64c-363b-8499-10d3ba527b85
+[16:06:54] [Server thread/INFO]: NikcySrbin[/62.4.41.42:42676] logged in with entity id 52599 at ([world]9.63001896953774, 63.0, 11.253571848242307)
+[16:06:54] [Craft Scheduler Thread - 187 - AuthMe/INFO]: [AuthMe] NikcySrbin logged in 62.4.41.42
