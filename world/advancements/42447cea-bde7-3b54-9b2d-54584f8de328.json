@@ -640,7 +640,8 @@
       "cooked_cod": "2025-01-08 03:26:26 +0100",
       "sweet_berries": "2025-01-08 18:53:52 +0100",
       "cooked_salmon": "2025-01-08 02:49:22 +0100",
-      "tropical_fish": "2025-01-08 03:46:42 +0100"
+      "tropical_fish": "2025-01-08 03:46:42 +0100",
+      "carrot": "2025-01-10 22:19:12 +0100"
     },
     "done": false
   },
@@ -1805,6 +1806,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-09 03:36:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-10 22:14:34 +0100"
     },
     "done": true
   },
