@@ -14,7 +14,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-01-08 01:14:10 +0100",
-      "minecraft:warm_ocean": "2025-01-08 01:25:09 +0100"
+      "minecraft:mushroom_fields": "2025-01-10 20:30:23 +0100",
+      "minecraft:river": "2025-01-10 20:30:10 +0100",
+      "minecraft:jagged_peaks": "2025-01-10 20:30:53 +0100",
+      "minecraft:warm_ocean": "2025-01-08 01:25:09 +0100",
+      "minecraft:deep_lukewarm_ocean": "2025-01-10 20:32:06 +0100"
     },
     "done": false
   },
@@ -942,6 +946,84 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-09 18:13:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-10 20:33:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-10 20:33:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 20:33:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-10 20:33:25 +0100"
     },
     "done": true
   },
