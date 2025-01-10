@@ -39,3 +39,19 @@
 [20:09:30] [Server thread/INFO]: Jockooooo[/46.161.108.247:48286] logged in with entity id 57119 at ([world]18.30000001192093, 63.0, -0.9501039452494277)
 [20:09:30] [Craft Scheduler Thread - 197 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
 [20:10:45] [Server thread/INFO]: Boja21 lost connection: Disconnected
+[20:15:08] [User Authenticator #64/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[20:15:09] [Server thread/INFO]: Boja21[/109.228.76.68:54024] logged in with entity id 57422 at ([world]6.508586387612838, 63.0, 13.472018083834035)
+[20:15:10] [Craft Scheduler Thread - 200 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
+[20:15:25] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[20:15:26] [User Authenticator #64/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[20:15:27] [Server thread/INFO]: Jockooooo[/46.161.108.247:40348] logged in with entity id 57432 at ([world]9.941788778346881, 63.0, 7.052753360468413)
+[20:15:27] [Craft Scheduler Thread - 202 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[20:15:36] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[20:15:56] [User Authenticator #64/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[20:15:57] [Server thread/INFO]: Jockooooo[/46.161.108.247:58326] logged in with entity id 57460 at ([world]17.173811641670138, 64.0, 16.11209751416349)
+[20:15:57] [Craft Scheduler Thread - 204 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[20:18:10] [Server thread/INFO]: Boja21 lost connection: Disconnected
+[20:24:18] [User Authenticator #65/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[20:24:19] [Server thread/INFO]: Boja21[/109.228.76.68:54125] logged in with entity id 58064 at ([world]14.405155791589447, 63.0, 3.339380324827852)
+[20:24:19] [Craft Scheduler Thread - 207 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
+[20:24:43] [Server thread/INFO]: Boja21 lost connection: Disconnected
