@@ -427,7 +427,8 @@
       "minecraft:zombie": "2025-01-09 00:10:07 +0100",
       "minecraft:creeper": "2025-01-09 00:17:22 +0100",
       "minecraft:husk": "2025-01-08 23:11:04 +0100",
-      "minecraft:ghast": "2025-01-10 19:06:30 +0100"
+      "minecraft:ghast": "2025-01-10 19:06:30 +0100",
+      "minecraft:slime": "2025-01-10 19:26:20 +0100"
     },
     "done": false
   },
@@ -1793,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 19:26:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-01-10 18:30:52 +0100"
@@ -1811,9 +1818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 19:26:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-10 18:30:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 19:26:27 +0100"
     },
     "done": true
   },
