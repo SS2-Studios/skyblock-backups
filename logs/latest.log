@@ -164,3 +164,7 @@
 [22:12:16] [Server thread/INFO]: Jockooooo lost connection: Disconnected
 [22:12:21] [Server thread/INFO]: Boja21 lost connection: Disconnected
 [22:21:04] [Server thread/INFO]: TodorW lost connection: Disconnected
+[23:06:07] [User Authenticator #69/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[23:06:08] [Server thread/INFO]: Boja21[/109.228.76.68:56455] logged in with entity id 67234 at ([world]18.67318774705452, 63.0, 4.815170690851105)
+[23:06:09] [Craft Scheduler Thread - 221 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
+[23:07:06] [Server thread/INFO]: Boja21 lost connection: Disconnected
