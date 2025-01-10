@@ -494,7 +494,8 @@
       "minecraft:spider": "2025-01-08 02:56:13 +0100",
       "minecraft:zombie": "2025-01-08 02:37:26 +0100",
       "minecraft:creeper": "2025-01-08 02:32:41 +0100",
-      "minecraft:husk": "2025-01-08 21:56:40 +0100"
+      "minecraft:husk": "2025-01-08 21:56:40 +0100",
+      "minecraft:slime": "2025-01-10 02:38:09 +0100"
     },
     "done": false
   },
@@ -1355,6 +1356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 02:38:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 02:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-10 02:34:51 +0100"
@@ -1364,6 +1377,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-10 02:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 02:38:14 +0100"
     },
     "done": true
   },
