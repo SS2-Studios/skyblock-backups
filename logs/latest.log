@@ -14,3 +14,6 @@
 [03:09:36] [Server thread/INFO]: Jockooooo[/46.161.108.247:43344] logged in with entity id 52516 at ([world]18.849630857488947, 88.0, 7.969195841582799)
 [03:09:36] [Craft Scheduler Thread - 184 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
 [03:20:55] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[15:16:44] [User Authenticator #58/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
+[15:16:44] [Server thread/INFO]: Disconnecting Jockooo (/185.204.1.181:60948): You are not whitelisted on this server!
+[15:16:44] [Server thread/INFO]: Jockooo (/185.204.1.181:60948) lost connection: You are not whitelisted on this server!
