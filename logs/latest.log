@@ -3,3 +3,6 @@
 [00:37:33] [Craft Scheduler Thread - 224 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
 [00:38:42] [Server thread/INFO]: TodorW was doomed to fall by Husk
 [00:43:31] [Server thread/INFO]: TodorW lost connection: Disconnected
+[04:54:36] [User Authenticator #71/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
+[04:54:36] [Server thread/INFO]: Disconnecting Jockooo (/146.70.189.149:33044): You are not whitelisted on this server!
+[04:54:37] [Server thread/INFO]: Jockooo (/146.70.189.149:33044) lost connection: You are not whitelisted on this server!
