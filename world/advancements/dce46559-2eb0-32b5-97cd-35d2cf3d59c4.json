@@ -1079,5 +1079,11 @@
     },
     "done": true
   },
+  "skyblock:farmer/suit_up": {
+    "criteria": {
+      "leather_helmet": "2025-01-13 17:09:30 +0100"
+    },
+    "done": false
+  },
   "DataVersion": 3953
 }
