@@ -1081,6 +1081,7 @@
   },
   "skyblock:farmer/suit_up": {
     "criteria": {
+      "leather_chestplate": "2025-01-13 18:21:08 +0100",
       "leather_helmet": "2025-01-13 17:09:30 +0100"
     },
     "done": false
@@ -1112,6 +1113,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-13 17:34:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-13 18:25:48 +0100"
     },
     "done": true
   },
