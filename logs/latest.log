@@ -1,3 +1,6 @@
 [07:26:34] [User Authenticator #80/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
 [07:26:34] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/46.101.233.169:56654): You are not whitelisted on this server!
 [07:26:34] [Server thread/INFO]: ServerSeekerV2 (/46.101.233.169:56654) lost connection: You are not whitelisted on this server!
+[13:42:51] [User Authenticator #81/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[13:42:52] [Server thread/INFO]: TodorW[/185.65.134.153:53174] logged in with entity id 69196 at ([world]3.0960167903778273, 63.0, 22.761025581227713)
+[13:42:52] [Server thread/INFO]: TodorW lost connection: Disconnected
