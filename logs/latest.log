@@ -12,3 +12,10 @@
 [17:12:12] [Craft Scheduler Thread - 237 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
 [17:12:23] [Server thread/INFO]: Jockooooo has made the advancement [Acquire Hardware]
 [17:15:08] [Server thread/INFO]: Jockooooo has made the advancement [What a Deal!]
+[17:34:37] [Server thread/INFO]: Boja21 has made the advancement [What a Deal!]
+[17:35:14] [User Authenticator #84/INFO]: UUID of player kenmaman is 6403bc1d-1a9f-346f-b45c-c9c45bf15458
+[17:35:14] [Server thread/INFO]: kenmaman[/54.38.62.47:38458] logged in with entity id 71235 at ([world]3.9981066910857437, 63.0, 1.2342244742198702)
+[17:35:16] [Server thread/INFO]: kenmaman lost connection: Disconnected
+[17:35:22] [User Authenticator #84/INFO]: UUID of player Alert__Bot is 25c714bb-107f-37a6-ba22-5e849282a9c2
+[17:35:22] [Server thread/INFO]: Disconnecting Alert__Bot (/54.38.62.47:47554): You are not whitelisted on this server!
+[17:35:22] [Server thread/INFO]: Alert__Bot (/54.38.62.47:47554) lost connection: You are not whitelisted on this server!
