@@ -4,3 +4,6 @@
 [13:42:51] [User Authenticator #81/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
 [13:42:52] [Server thread/INFO]: TodorW[/185.65.134.153:53174] logged in with entity id 69196 at ([world]3.0960167903778273, 63.0, 22.761025581227713)
 [13:42:52] [Server thread/INFO]: TodorW lost connection: Disconnected
+[17:01:25] [User Authenticator #82/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[17:01:26] [Server thread/INFO]: Boja21[/109.228.76.68:50189] logged in with entity id 69197 at ([world]17.765795670576356, 64.0, 7.501415617414909)
+[17:01:26] [Craft Scheduler Thread - 235 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
