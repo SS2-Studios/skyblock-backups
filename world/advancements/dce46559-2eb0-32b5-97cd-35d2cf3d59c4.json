@@ -1086,15 +1086,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-13 17:20:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-13 17:20:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-13 17:33:49 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_sugar_cane": "2025-01-13 17:20:13 +0100"
+      "traded": "2025-01-13 17:34:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-13 17:34:38 +0100"
     },
     "done": true
   },
@@ -1110,27 +1128,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-01-13 17:34:38 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-13 18:25:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-13 18:15:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-13 17:34:37 +0100"
     },
     "done": true
   },
@@ -1140,9 +1140,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_reeds": "2025-01-13 17:20:13 +0100"
+      "slept_in_bed": "2025-01-13 18:25:48 +0100"
     },
     "done": true
   },
