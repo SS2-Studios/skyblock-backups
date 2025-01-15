@@ -1,3 +1,29 @@
 [04:16:32] [User Authenticator #91/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
 [04:16:32] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:50314): You are not whitelisted on this server!
 [04:16:32] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:50314) lost connection: You are not whitelisted on this server!
+[15:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4416ms or 88 ticks behind
+[15:52:14] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[15:52:18] [Paper Watchdog Thread/ERROR]: The server has not responded for -1 seconds! Creating thread dump
+[15:52:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:52:28] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:54:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:54:28] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:54:54] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: RUNNABLE
+[15:55:21] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:55:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.getRunningBehaviors(Brain.java:258)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.tickEachRunningBehavior(Brain.java:454)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.tick(Brain.java:404)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.piglin.Piglin.customServerAiStep(Piglin.java:299)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:946)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:678)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:44)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:445)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.rideTick(Entity.java:2973)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.rideTick(LivingEntity.java:3726)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickPassenger(ServerLevel.java:1288)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1258)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007f027d4b4448.accept(Unknown Source)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1420)
+[15:55:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:737)
