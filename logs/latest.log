@@ -1,20 +1,3 @@
-[01:21:14] [User Authenticator #85/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[01:21:14] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/46.101.233.169:36800): You are not whitelisted on this server!
-[01:21:14] [Server thread/INFO]: ServerSeekerV2 (/46.101.233.169:36800) lost connection: You are not whitelisted on this server!
-[05:12:15] [User Authenticator #86/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[05:12:15] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:33758): You are not whitelisted on this server!
-[05:12:15] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:33758) lost connection: You are not whitelisted on this server!
-[07:37:20] [User Authenticator #87/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[07:37:20] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/46.101.233.169:59136): You are not whitelisted on this server!
-[07:37:20] [Server thread/INFO]: ServerSeekerV2 (/46.101.233.169:59136) lost connection: You are not whitelisted on this server!
-[17:26:11] [User Authenticator #88/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
-[17:26:12] [Server thread/INFO]: Boja21[/109.228.76.68:52235] logged in with entity id 75746 at ([world]24.735025029873988, 65.0, 4.663630184073586)
-[17:26:12] [Craft Scheduler Thread - 243 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
-[17:30:16] [Server thread/INFO]: Boja21 lost connection: Disconnected
-[22:17:40] [User Authenticator #89/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[22:17:40] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/46.101.233.169:39412): You are not whitelisted on this server!
-[22:17:40] [Server thread/INFO]: ServerSeekerV2 (/46.101.233.169:39412) lost connection: You are not whitelisted on this server!
-[22:45:10] [User Authenticator #90/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
-[22:45:11] [Server thread/INFO]: Boja21[/109.228.76.68:53275] logged in with entity id 76135 at ([world]15.685372765266116, 63.0, 5.941414292641678)
-[22:45:11] [Craft Scheduler Thread - 246 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
-[22:46:24] [Server thread/INFO]: Boja21 lost connection: Disconnected
+[04:16:32] [User Authenticator #91/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[04:16:32] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:50314): You are not whitelisted on this server!
+[04:16:32] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:50314) lost connection: You are not whitelisted on this server!
