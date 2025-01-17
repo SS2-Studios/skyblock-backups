@@ -57,3 +57,12 @@
 [22:15:44] [User Authenticator #0/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
 [22:15:46] [Server thread/INFO]: Jockooooo[/46.161.108.247:34534] logged in with entity id 131 at ([world]15.450457527454162, 64.0, 9.709763076230281)
 [22:15:47] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
+[22:16:36] [Server thread/INFO]: Jockooooo issued server command: /op
+[22:16:49] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo minecraft:cobblestone 1000
+[22:16:49] [Server thread/INFO]: [Jockooooo: Gave 1000 [Cobblestone] to Jockooooo]
+[22:24:04] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo minecraft:oak_wood 50
+[22:24:05] [Server thread/INFO]: [Jockooooo: Gave 50 [Oak Wood] to Jockooooo]
+[22:24:18] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo minecraft:oak_log 64
+[22:24:18] [Server thread/INFO]: [Jockooooo: Gave 64 [Oak Log] to Jockooooo]
+[22:27:11] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo stone 100
+[22:27:11] [Server thread/INFO]: [Jockooooo: Gave 100 [Stone] to Jockooooo]
