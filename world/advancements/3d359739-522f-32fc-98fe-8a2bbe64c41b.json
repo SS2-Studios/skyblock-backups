@@ -1759,15 +1759,39 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-18 02:43:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-18 02:28:37 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-18 02:39:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-18 02:39:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-18 02:28:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-18 02:39:50 +0100"
     },
     "done": true
   },
