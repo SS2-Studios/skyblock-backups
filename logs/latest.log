@@ -1,1 +1,4 @@
 [00:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[02:15:24] [User Authenticator #2/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[02:15:24] [Server thread/INFO]: Jockooooo[/46.161.108.247:50256] logged in with entity id 708 at ([world]16.30000001192093, 63.0, -24.206112827286685)
+[02:15:25] [Craft Scheduler Thread - 11 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
