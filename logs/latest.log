@@ -1,15 +1,1 @@
-[00:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
-[02:15:24] [User Authenticator #2/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
-[02:15:24] [Server thread/INFO]: Jockooooo[/46.161.108.247:50256] logged in with entity id 708 at ([world]16.30000001192093, 63.0, -24.206112827286685)
-[02:15:25] [Craft Scheduler Thread - 11 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 46.161.108.247
-[02:39:50] [Server thread/INFO]: Jockooooo has made the advancement [Ice Bucket Challenge]
-[02:43:45] [Server thread/INFO]: Jockooooo has made the advancement [Suit Up]
-[04:16:23] [User Authenticator #3/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
-[04:16:24] [Server thread/INFO]: Boja21[/109.228.76.68:51708] logged in with entity id 8103 at ([world]17.046726964343563, 64.0, 8.382829650073667)
-[04:16:24] [Craft Scheduler Thread - 13 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
-[04:18:08] [Server thread/INFO]: Boja21 lost connection: Disconnected
-[04:19:28] [Server thread/INFO]: Jockooooo lost connection: Disconnected
-[10:20:26] [User Authenticator #4/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[10:20:26] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:48846): You are not whitelisted on this server!
-[10:20:26] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:48846) lost connection: You are not whitelisted on this server!
-[21:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[00:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
