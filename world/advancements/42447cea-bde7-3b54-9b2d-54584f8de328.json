@@ -640,6 +640,7 @@
       "cooked_cod": "2025-01-08 03:26:26 +0100",
       "sweet_berries": "2025-01-08 18:53:52 +0100",
       "cooked_salmon": "2025-01-08 02:49:22 +0100",
+      "pumpkin_pie": "2025-01-19 20:21:21 +0100",
       "tropical_fish": "2025-01-08 03:46:42 +0100",
       "carrot": "2025-01-10 22:19:12 +0100"
     },
@@ -1818,6 +1819,24 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-10 22:14:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-19 20:22:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-19 20:22:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-19 20:22:43 +0100"
     },
     "done": true
   },
