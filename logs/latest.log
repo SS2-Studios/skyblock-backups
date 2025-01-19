@@ -2,3 +2,8 @@
 [06:51:29] [User Authenticator #5/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
 [06:51:29] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:44632): You are not whitelisted on this server!
 [06:51:29] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:44632) lost connection: You are not whitelisted on this server!
+[14:42:54] [User Authenticator #6/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[14:42:56] [Server thread/INFO]: TodorW[/62.4.34.92:37960] logged in with entity id 8362 at ([world]3.0960167903778273, 63.0, 22.761025581227713)
+[14:43:05] [Craft Scheduler Thread - 17 - AuthMe/INFO]: [AuthMe] TodorW used the wrong password
+[14:43:10] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[14:50:34] [Server thread/INFO]: TodorW lost connection: Disconnected
