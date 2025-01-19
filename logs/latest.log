@@ -14,3 +14,7 @@
 [20:24:08] [Server thread/INFO]: Disconnecting slotIRoPgAKco (/54.38.62.47:35252): You are not whitelisted on this server!
 [20:24:08] [Server thread/INFO]: slotIRoPgAKco (/54.38.62.47:35252) lost connection: You are not whitelisted on this server!
 [20:24:14] [Server thread/INFO]: TodorW lost connection: Disconnected
+[22:10:02] [User Authenticator #9/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[22:10:04] [Server thread/INFO]: TodorW[/62.4.34.92:39969] logged in with entity id 9176 at ([world]9.847002534848162, 63.0, 18.228899650155125)
+[22:10:04] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[22:10:28] [Server thread/INFO]: TodorW lost connection: Disconnected
