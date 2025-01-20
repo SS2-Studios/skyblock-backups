@@ -10,3 +10,7 @@
 [15:43:13] [User Authenticator #12/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
 [15:43:14] [Server thread/INFO]: Jockooooo[/146.70.144.84:35830] logged in with entity id 9232 at ([world]9.523999226536674, 63.0, -9.264604057581034)
 [15:43:15] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[20:31:01] [User Authenticator #13/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[20:31:03] [Server thread/INFO]: TodorW[/62.4.34.92:43943] logged in with entity id 9233 at ([world]5.746335721544783, 63.0, 13.348250676092343)
+[20:31:04] [Craft Scheduler Thread - 32 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
+[20:36:37] [Server thread/INFO]: TodorW lost connection: Disconnected
