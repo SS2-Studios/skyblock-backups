@@ -1,8 +1,1 @@
-[20:56:45] [User Authenticator #15/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[20:56:45] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:55682): You are not whitelisted on this server!
-[20:56:45] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:55682) lost connection: You are not whitelisted on this server!
-[21:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
-[23:36:19] [User Authenticator #16/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
-[23:36:21] [Server thread/INFO]: TodorW[/62.4.34.92:50380] logged in with entity id 9799 at ([world]9.514852829722368, 63.0, 21.008852903736518)
-[23:36:21] [Craft Scheduler Thread - 35 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
-[23:44:10] [Server thread/INFO]: TodorW lost connection: Disconnected
+[13:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
