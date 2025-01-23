@@ -1,1 +1,8 @@
 [00:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3252ms or 65 ticks behind
+[02:56:17] [User Authenticator #18/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[02:56:18] [Server thread/INFO]: Jockooooo[/82.102.19.90:50090] logged in with entity id 10044 at ([world]9.523999226536674, 63.0, -9.264604057581034)
+[02:56:18] [Server thread/INFO]: Jockooooo issued server command: /gamerule sendCommandFeedback true
+[02:56:18] [Server thread/INFO]: Jockooooo lost connection: You used a command too fast! Please, join the server again and wait more before using any command.
+[02:56:28] [User Authenticator #18/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
+[02:56:29] [Server thread/INFO]: Disconnecting Jockooo (/82.102.19.90:55506): You are not whitelisted on this server!
+[02:56:29] [Server thread/INFO]: Jockooo (/82.102.19.90:55506) lost connection: You are not whitelisted on this server!
