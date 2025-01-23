@@ -12,3 +12,6 @@
 [15:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
 [15:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
 [15:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[22:46:16] [User Authenticator #20/INFO]: UUID of player hapkoliia_ezz is 96a851d9-c560-31b6-bb30-55d3cccab65c
+[22:46:17] [Server thread/INFO]: Disconnecting hapkoliia_ezz (/62.4.41.211:18947): You are not whitelisted on this server!
+[22:46:17] [Server thread/INFO]: hapkoliia_ezz (/62.4.41.211:18947) lost connection: You are not whitelisted on this server!
