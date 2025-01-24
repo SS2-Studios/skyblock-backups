@@ -1,1 +1,16 @@
 [00:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[00:50:58] [User Authenticator #21/INFO]: UUID of player Boja21 is dce46559-2eb0-32b5-97cd-35d2cf3d59c4
+[00:51:00] [Server thread/INFO]: Boja21[/109.228.76.68:61139] logged in with entity id 10048 at ([world]10.584057720240903, 63.90854555312462, -20.35345667336507)
+[00:51:00] [Craft Scheduler Thread - 41 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
+[00:52:07] [User Authenticator #22/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[00:52:08] [Server thread/INFO]: Jockooooo[/95.155.25.252:60040] logged in with entity id 10059 at ([world]9.523999226536674, 63.0, -9.264604057581034)
+[00:52:28] [Craft Scheduler Thread - 43 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
+[00:52:31] [Craft Scheduler Thread - 44 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
+[00:52:35] [Craft Scheduler Thread - 45 - AuthMe/INFO]: [AuthMe] Jockooooo used the wrong password
+[00:52:38] [Craft Scheduler Thread - 45 - AuthMe/INFO]: [AuthMe] Jockooooo logged in 95.155.25.252
+[00:55:29] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo minecraft:iron_bars 3
+[00:55:29] [Server thread/INFO]: [Jockooooo: Gave 3 [Iron Bars] to Jockooooo]
+[00:55:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Jockooooo> Nigger
+[00:56:38] [Server thread/INFO]: Jockooooo issued server command: /give Jockooooo minecraft:iron_ingot 4
+[00:56:38] [Server thread/INFO]: [Jockooooo: Gave 4 [Iron Ingot] to Jockooooo]
+[00:56:44] [Server thread/INFO]: Boja21 has made the advancement [Acquire Hardware]
