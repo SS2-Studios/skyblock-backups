@@ -21,3 +21,7 @@
 [01:19:28] [Craft Scheduler Thread - 48 - AuthMe/INFO]: [AuthMe] Boja21 logged in 109.228.76.68
 [01:23:17] [Server thread/INFO]: Jockooooo lost connection: Disconnected
 [01:23:22] [Server thread/INFO]: Boja21 lost connection: Disconnected
+[13:37:20] [User Authenticator #24/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[13:37:20] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:49538): You are not whitelisted on this server!
+[13:37:20] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:49538): You are not whitelisted on this server!
+[13:37:20] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:49538) lost connection: You are not whitelisted on this server!
