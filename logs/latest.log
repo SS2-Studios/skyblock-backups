@@ -3,3 +3,10 @@
 [19:23:48] [User Authenticator #29/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
 [19:23:49] [Server thread/INFO]: Jockooooo[/146.70.132.58:50502] logged in with entity id 12467 at ([world]5.889681062945755, 63.5, -186.52039266312283)
 [19:23:50] [Server thread/INFO]: Jockooooo lost connection: Disconnected
+[20:27:32] [User Authenticator #30/INFO]: UUID of player Jockooooo is 3d359739-522f-32fc-98fe-8a2bbe64c41b
+[20:27:33] [Server thread/INFO]: Jockooooo[/146.70.132.58:46722] logged in with entity id 12468 at ([world]5.889681062945755, 63.5, -186.52039266312283)
+[20:27:33] [Server thread/INFO]: Jockooooo issued server command: /gamerule sendCommandFeedback true
+[20:27:33] [Server thread/INFO]: Jockooooo lost connection: You used a command too fast! Please, join the server again and wait more before using any command.
+[20:27:43] [User Authenticator #30/INFO]: UUID of player Jockooo is 349a5b5b-c335-3cd4-a7c1-1d2f6c736b02
+[20:27:43] [Server thread/INFO]: Disconnecting Jockooo (/146.70.132.58:55302): You are not whitelisted on this server!
+[20:27:43] [Server thread/INFO]: Jockooo (/146.70.132.58:55302) lost connection: You are not whitelisted on this server!
