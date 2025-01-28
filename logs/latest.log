@@ -1,1 +1,5 @@
 [07:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[18:06:19] [User Authenticator #32/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
+[18:06:19] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60788): You are not whitelisted on this server!
+[18:06:19] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60788): You are not whitelisted on this server!
+[18:06:19] [Server thread/INFO]: WarningBot (/78.154.15.188:60788) lost connection: You are not whitelisted on this server!
