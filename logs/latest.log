@@ -1,1 +1,4 @@
 [03:41:43] [Server thread/INFO]: /118.70.144.77:45238 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[13:04:22] [User Authenticator #36/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[13:04:23] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:48736): You are not whitelisted on this server!
+[13:04:23] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:48736) lost connection: You are not whitelisted on this server!
