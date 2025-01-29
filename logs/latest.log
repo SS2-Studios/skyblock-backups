@@ -1,17 +1,1 @@
-[07:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
-[18:06:19] [User Authenticator #32/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
-[18:06:19] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60788): You are not whitelisted on this server!
-[18:06:19] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60788): You are not whitelisted on this server!
-[18:06:19] [Server thread/INFO]: WarningBot (/78.154.15.188:60788) lost connection: You are not whitelisted on this server!
-[18:31:47] [User Authenticator #33/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
-[18:31:47] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60156): You are not whitelisted on this server!
-[18:31:47] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60156): You are not whitelisted on this server!
-[18:31:47] [Server thread/INFO]: WarningBot (/78.154.15.188:60156) lost connection: You are not whitelisted on this server!
-[22:38:41] [User Authenticator #34/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
-[22:38:43] [Server thread/INFO]: TodorW[/62.4.34.92:26597] logged in with entity id 12475 at ([world]9.372097349951703, 63.0, 21.809242281446256)
-[22:38:43] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] TodorW logged in 62.4.34.92
-[22:41:03] [User Authenticator #35/INFO]: UUID of player WarningBot is 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
-[22:41:03] [Server thread/INFO]: Disconnecting WarningBot (/78.154.15.188:60140): You are not whitelisted on this server!
-[22:41:03] [Server thread/INFO]: WarningBot (/78.154.15.188:60140) lost connection: You are not whitelisted on this server!
-[22:41:11] [Server thread/INFO]: TodorW fell from a high place
-[22:41:57] [Server thread/INFO]: TodorW lost connection: Disconnected
+[03:41:43] [Server thread/INFO]: /118.70.144.77:45238 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
