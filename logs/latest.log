@@ -24,3 +24,5 @@
 [02:15:20] [User Authenticator #40/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
 [02:15:21] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:60368): You are not whitelisted on this server!
 [02:15:21] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:60368) lost connection: You are not whitelisted on this server!
+[02:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[02:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
