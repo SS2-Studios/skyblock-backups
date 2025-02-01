@@ -133,3 +133,13 @@
 [15:16:59] [Craft Scheduler Thread - 25 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
 [15:17:15] [Server thread/WARN]: TodorW dropped their items too quickly!
 [15:17:15] [Server thread/INFO]: TodorW lost connection: You dropped your items too quickly (Hacking?)
+[15:18:09] [User Authenticator #3/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[15:18:11] [Server thread/INFO]: TodorW[/89.188.33.34:52772] logged in with entity id 693 at ([world]28.57414035482996, 63.0, 7.815870093101196)
+[15:18:12] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
+[15:18:23] [Server thread/INFO]: TodorW lost connection: Disconnected
+[15:18:31] [User Authenticator #3/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[15:18:33] [Server thread/INFO]: TodorW[/89.188.33.34:43232] logged in with entity id 697 at ([world]18.894142772682194, 63.0, 2.907806936064234)
+[15:18:33] [Craft Scheduler Thread - 31 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
+[15:18:47] [Server thread/INFO]: lucicc was shot by TodorW
+[15:18:52] [Server thread/INFO]: kenmaman fell out of the world
+[15:18:53] [Server thread/INFO]: TodorW lost connection: Disconnected
