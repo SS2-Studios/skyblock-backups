@@ -1,57 +1,135 @@
-[00:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
-[00:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
-[00:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
-[00:10:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
-[00:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
-[00:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[00:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
-[00:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[01:00:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[01:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2939ms or 58 ticks behind
-[01:14:11] [User Authenticator #38/INFO]: UUID of player FifthColumnMC is 8e831327-8078-39d5-9494-378dfba8c8f8
-[01:14:12] [Server thread/INFO]: Disconnecting FifthColumnMC (/103.75.11.61:49366): You are not whitelisted on this server!
-[01:14:12] [Server thread/INFO]: FifthColumnMC (/103.75.11.61:49366) lost connection: You are not whitelisted on this server!
-[01:19:15] [User Authenticator #39/INFO]: UUID of player FifthColumnMC is 8e831327-8078-39d5-9494-378dfba8c8f8
-[01:19:15] [Server thread/INFO]: Disconnecting FifthColumnMC (/103.75.11.61:44448): You are not whitelisted on this server!
-[01:19:15] [Server thread/INFO]: FifthColumnMC (/103.75.11.61:44448) lost connection: You are not whitelisted on this server!
-[01:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
-[01:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
-[01:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
-[01:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
-[01:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
-[01:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[02:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
-[02:15:20] [User Authenticator #40/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[02:15:21] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:60368): You are not whitelisted on this server!
-[02:15:21] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:60368) lost connection: You are not whitelisted on this server!
-[02:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
-[02:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
-[04:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
-[05:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[05:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[05:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
-[05:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
-[06:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
-[08:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
-[09:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
-[09:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
-[09:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[09:51:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
-[10:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
-[10:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[11:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[13:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
-[13:39:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
-[14:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
-[14:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
-[14:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
-[14:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[14:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
-[15:56:05] [User Authenticator #41/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[15:56:05] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:49824): You are not whitelisted on this server!
-[15:56:05] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:49824): You are not whitelisted on this server!
-[15:56:05] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/45.135.194.65:49824): You are not whitelisted on this server!
-[15:56:05] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:49824) lost connection: You are not whitelisted on this server!
-[16:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[17:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
-[17:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[15:04:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu122.04; Ubuntu null) on Linux 5.15.0-25-generic (amd64)
+[15:04:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[15:04:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:04:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[15:04:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - AuthMe (5.7.0-FORK-b53)
+[15:05:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:05:27] [ServerMain/INFO]: Loaded 1305 recipes
+[15:05:28] [ServerMain/INFO]: Loaded 1437 advancements
+[15:05:29] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:05:29] [Server thread/INFO]: Loading properties
+[15:05:29] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:05:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:05:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:05:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:05:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:05:34] [Server thread/INFO]: Default game type: SURVIVAL
+[15:05:34] [Server thread/INFO]: Generating keypair
+[15:05:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:05:35] [Server thread/INFO]: Using epoll channel type
+[15:05:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:05:35] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[15:05:36] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
+[15:05:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:05:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:05:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:05:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:05:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:05:36] [Server thread/INFO]: Preparing level "world"
+[15:05:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:39] [Server thread/INFO]: Time elapsed: 2453 ms
+[15:05:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:05:40] [Server thread/INFO]: Time elapsed: 460 ms
+[15:05:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:05:40] [Server thread/INFO]: Time elapsed: 333 ms
+[15:05:40] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
+[15:05:41] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[15:05:44] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[15:05:45] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[15:05:48] [Server thread/INFO]: [AuthMe] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[15:05:48] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
+[15:05:48] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[15:05:48] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[15:05:48] [Server thread/INFO]: [AuthMe] Checking for updates...
+[15:05:48] [Server thread/INFO]: [spark] Starting background profiler...
+[15:05:49] [Server thread/INFO]: Done preparing level "world" (13.569s)
+[15:05:49] [Server thread/INFO]: Running delayed init tasks
+[15:05:49] [Server thread/INFO]: Done (58.944s)! For help, type "help"
+[15:05:49] [Server thread/INFO]: Timings Reset
+[15:05:50] [Craft Scheduler Thread - 2 - AuthMe/INFO]: [AuthMe] You are running the latest version.
+[15:05:50] [Server thread/INFO]: Added Masulaa to the whitelist
+[15:05:50] [User Authenticator #0/INFO]: UUID of player Masulaa is 024c00ab-a5fa-3841-b14a-b575b13f2d22
+[15:05:50] [Server thread/INFO]: Player is already whitelisted
+[15:05:51] [Server thread/INFO]: Player is already whitelisted
+[15:05:54] [Server thread/INFO]: Masulaa[/89.188.33.34:53951] logged in with entity id 118 at ([world]-2.5, 77.0, 1.5)
+[15:05:56] [Server thread/INFO]: There are 9 whitelisted player(s): Jockooooo, kenmaman, lucicc, Boja21, Masulaa, TodorW, NikcySrbin, NickySrbin24, Lucic15
+[15:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[15:05:59] [User Authenticator #0/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[15:06:02] [Server thread/INFO]: lucicc[/89.188.33.34:62226] logged in with entity id 121 at ([world]5.9869911392141475, 63.0, 9.949999988079071)
+[15:06:13] [User Authenticator #0/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[15:06:15] [Server thread/INFO]: TodorW[/89.188.33.34:40682] logged in with entity id 122 at ([world]8.387577841546998, 63.0, 23.559166787940033)
+[15:06:19] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:20] [Server thread/INFO]: You whisper to Masulaa: aloo
+[15:06:22] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:24] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] TodorW used the wrong password
+[15:06:26] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:27] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
+[15:06:28] [Server thread/INFO]: You whisper to Masulaa: slucajno sam pokrenuo skyblock
+[15:06:28] [Server thread/INFO]: [AuthMe] Masulaa registered 89.188.33.34
+[15:06:28] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] Masulaa logged in 89.188.33.34
+[15:06:29] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:33] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:36] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:37] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:38] [User Authenticator #0/INFO]: UUID of player kenmaman is 6403bc1d-1a9f-346f-b45c-c9c45bf15458
+[15:06:38] [Server thread/INFO]: kenmaman[/89.188.33.32:63074] logged in with entity id 129 at ([world]3.9981066910857437, 63.0, 1.2342244742198702)
+[15:06:42] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:45] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] kenmaman logged in 89.188.33.32
+[15:06:46] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:47] [Server thread/INFO]: You whisper to Masulaa: napisiti "POOKIE" ako ocete da nastavimo skyblock umjesto survival
+[15:06:47] [Server thread/INFO]: You whisper to lucicc: napisiti "POOKIE" ako ocete da nastavimo skyblock umjesto survival
+[15:06:47] [Server thread/INFO]: You whisper to TodorW: napisiti "POOKIE" ako ocete da nastavimo skyblock umjesto survival
+[15:06:47] [Server thread/INFO]: You whisper to kenmaman: napisiti "POOKIE" ako ocete da nastavimo skyblock umjesto survival
+[15:06:48] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Masulaa> mjau
+[15:06:50] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:06:52] [Async Chat Thread - #0/INFO]: [Not Secure] <TodorW> mjau
+[15:07:16] [Server thread/INFO]: lucicc issued server command: /authme:changepass
+[15:07:28] [Server thread/INFO]: kenmaman was shot by TodorW
+[15:07:33] [Server thread/INFO]: Masulaa was poked to death by a sweet berry bush while trying to escape TodorW
+[15:07:58] [Server thread/INFO]: lucicc lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[15:09:46] [Server thread/INFO]: Unknown command!
+[15:09:46] [Server thread/INFO]: Use the command /changepassword help to view help.
+[15:09:52] [Server thread/INFO]: Usage: /changepassword <oldPassword> <newPassword>
+[15:09:55] [Server thread/INFO]: Player only! Please use /authme password <playername> <password> instead.
+[15:10:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/authme test lucic test123 test123<--[HERE]
+[15:10:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/authme test lucic test123<--[HERE]
+[15:10:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/authme lucic test123<--[HERE]
+[15:10:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/authme password lucic icespice123<--[HERE]
+[15:10:53] [Craft Scheduler Thread - 13 - AuthMe/INFO]: This user isn't registered!
+[15:10:58] [Craft Scheduler Thread - 14 - AuthMe/INFO]: This user isn't registered!
+[15:10:59] [Server thread/INFO]: There are 3 of a max of 20 players online: TodorW, kenmaman, Masulaa
+[15:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[15:11:10] [Craft Scheduler Thread - 15 - AuthMe/INFO]: This user isn't registered!
+[15:11:21] [Server thread/INFO]: The chosen password isn't safe, please choose another one...
+[15:11:33] [Craft Scheduler Thread - 16 - AuthMe/INFO]: Password changed successfully!
+[15:11:33] [Craft Scheduler Thread - 16 - AuthMe/INFO]: [AuthMe] CONSOLE changed password of lucicc
+[15:12:11] [Server thread/INFO]: Masulaa was shot by Skeleton
+[15:12:26] [Server thread/INFO]: TodorW lost connection: Disconnected
+[15:12:31] [Server thread/INFO]: There are 2 of a max of 20 players online: kenmaman, Masulaa
+[15:14:36] [User Authenticator #1/INFO]: UUID of player lucicc is 0062d70d-3d7e-3274-afce-9398a307c2b7
+[15:14:38] [Server thread/INFO]: lucicc[/89.188.33.34:62649] logged in with entity id 377 at ([world]5.9869911392141475, 63.0, 9.949999988079071)
+[15:14:50] [User Authenticator #1/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[15:14:52] [Server thread/INFO]: TodorW[/89.188.33.34:53722] logged in with entity id 384 at ([world]8.770378852716101, 63.0, -6.956280514450927)
+[15:14:53] [Craft Scheduler Thread - 20 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
+[15:15:01] [Craft Scheduler Thread - 21 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:15:04] [Craft Scheduler Thread - 21 - AuthMe/INFO]: [AuthMe] lucicc used the wrong password
+[15:15:13] [Craft Scheduler Thread - 22 - AuthMe/INFO]: [AuthMe] lucicc logged in 89.188.33.34
+[15:15:59] [Server thread/INFO]: TodorW lost connection: Disconnected
+[15:16:54] [Server thread/INFO]: lucicc was slain by Zombified Piglin
+[15:16:58] [User Authenticator #2/INFO]: UUID of player TodorW is 42447cea-bde7-3b54-9b2d-54584f8de328
+[15:16:59] [Server thread/INFO]: TodorW[/89.188.33.34:56690] logged in with entity id 643 at ([world]10.039226643644644, 63.0, -29.552992397996945)
+[15:16:59] [Craft Scheduler Thread - 25 - AuthMe/INFO]: [AuthMe] TodorW logged in 89.188.33.34
+[15:17:15] [Server thread/WARN]: TodorW dropped their items too quickly!
+[15:17:15] [Server thread/INFO]: TodorW lost connection: You dropped your items too quickly (Hacking?)
